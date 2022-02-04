@@ -30,10 +30,9 @@
 </div>  
 
 ## Tecnologias que uso
-  Redes | Linux | Git | Docker | Vagrant | Ansible | Zabbix | Grafana | AWS
+  Linux | Bash | Git | Docker | Vagrant | Ansible | Zabbix | Grafana | AWS
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Redes" height="30" width="40" src="https://www.vectorlogo.zone/logos/networksolutions/networksolutions-icon.svg" />
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Bash" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
   <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
